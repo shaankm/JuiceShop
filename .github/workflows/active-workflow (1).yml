@@ -27,3 +27,4 @@ jobs:
           BRANCH_NAME: "${{ github.ref_name }}"
           VERBOSE: "true"
           ANALYZE: "false"
+          USE_ZAP: "true"
